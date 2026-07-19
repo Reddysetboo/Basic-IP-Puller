@@ -4,4 +4,6 @@ This is a very basic script I made using the help of AI.
 
 To use it, you need to be on call with the person you're targeting, specifically apps like WhatsApp or websites like Omegle.
 
+It will save all the IP addresses being sent back and forth through the STUN protocol in ip-list.txt.
+
 To install the required libraries, run "pip install -r requirements.txt" on your command prompt/terminal (PYTHON NEEDED).
